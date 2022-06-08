@@ -1,6 +1,7 @@
 # Fully-Bayesian-Conjugate-Analysis
 
 The project has been done during the Spring semester 2022, for the Bayesian Statistics course.
+
 It's divided in two parts:
 
 ## Analysis of the daily accidents in the city of Rome
